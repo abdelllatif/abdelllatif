@@ -40,6 +40,6 @@
 
 ###
 
-<p align="left">I am a Full Stack Web Developer</p>
+<h2 align="left">I am a Full Stack Web Developer</h2>
 
 ###
